@@ -1,0 +1,26 @@
+﻿"New housing price index, monthly 1 2 3 4"
+"Frequency: Monthly"
+"Table: 18-10-0205-01 (formerly CANSIM 327-0056)"
+"Release date: 2021-09-21"
+"Geography: Canada, Geographical region of Canada, Province or territory, Census metropolitan area, Census agglomeration"
+""
+""
+
+,"Ontario 5",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"New housing price indexes","August 2015","September 2015","October 2015","November 2015","December 2015","January 2016","February 2016","March 2016","April 2016","May 2016","June 2016","July 2016","August 2016","September 2016","October 2016","November 2016","December 2016","January 2017","February 2017","March 2017","April 2017","May 2017","June 2017","July 2017","August 2017","September 2017","October 2017","November 2017","December 2017","January 2018","February 2018","March 2018","April 2018","May 2018","June 2018","July 2018","August 2018","September 2018","October 2018","November 2018","December 2018","January 2019","February 2019","March 2019","April 2019","May 2019","June 2019","July 2019","August 2019","September 2019","October 2019","November 2019","December 2019","January 2020","February 2020","March 2020","April 2020","May 2020","June 2020","July 2020","August 2020","September 2020","October 2020","November 2020","December 2020","January 2021","February 2021","March 2021","April 2021","May 2021","June 2021","July 2021","August 2021"
+,"Index, 201612=100",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Total (house and land)","93.3","93.4","93.8","93.9","94.1","94.2","94.6","94.8","95.3","96.6","97.0","97.8","98.2","98.5","99.5","99.9","100.0","100.3","101.1","101.4","103.0","103.8","103.9","104.1","104.2","104.3","104.4","104.5","104.5","104.6","104.3","104.3","104.1","104.1","104.2","104.3","104.4","104.4","104.5","104.6","104.6","104.5","104.5","104.6","104.6","104.6","104.7","104.5","104.5","105.0","105.2","105.3","105.5","105.4","105.9","106.3","106.4","106.5","106.7","107.2","107.7","108.8","109.5","110.2","110.8","112.2","113.7","115.2","117.4","118.6","119.3","119.8","121.1"
+"House only","91.8","92.0","92.4","92.6","92.8","93.0","93.6","93.9","94.6","96.4","96.8","97.8","98.4","98.5","99.6","99.8","100.0","99.9","100.6","100.8","102.3","103.0","103.1","103.4","103.5","103.6","103.8","103.9","103.9","104.0","103.4","103.4","103.2","103.2","103.3","103.5","103.7","103.5","103.5","103.6","103.7","103.5","103.5","103.6","103.6","103.6","103.8","103.3","103.3","104.0","104.2","104.4","104.7","104.6","105.4","105.9","106.0","106.3","106.4","106.7","107.4","108.6","109.7","110.4","111.2","113.0","114.0","115.7","118.3","119.9","120.7","121.4","122.9"
+"Land only","96.4","96.4","96.6","96.7","96.7","96.7","96.6","96.6","96.8","97.1","97.4","97.6","97.6","98.1","99.1","100.0","100.0","100.9","102.0","102.5","104.5","106.2","106.3","106.3","106.4","106.5","106.5","106.5","106.5","106.6","106.6","106.5","106.5","106.5","106.5","106.5","106.5","106.7","106.8","106.9","106.9","106.9","106.9","106.9","106.9","106.9","107.0","106.9","107.0","107.1","107.2","107.2","107.2","107.3","107.3","107.5","107.5","107.5","107.7","108.6","109.0","109.6","109.9","110.5","110.8","111.4","113.9","114.9","116.3","116.8","117.1","117.1","117.8"
+
+Footnotes:
+1,"This table replaces table 18-10-0052 which was archived with the release of January 2017 data. Data for periods prior to December 2016 were obtained by linking the current New Housing Price Index (NHPI) series, where possible, to indexes in table 18-10-0052."
+2,"Beginning in December 2016, several changes have been made to the New Housing Price Index (NHPI). The census metropolitan areas (CMAs) of Kelowna, Guelph, Trois-Rivières and Sherbrooke are included in the NHPI basket. Separate indexes are published for the census metropolitan areas (CMAs) of Toronto, Oshawa, Ottawa-Gatineau (Ontario part), Ottawa-Gatineau (Quebec part) and Greater Sudbury. The New Housing Price Index no longer includes Thunder Bay."
+3,"The index base period, for which the New Housing Price Index (NHPI) equals 100, is December 2016."
+4,"New Housing price indexes denoted with the data quality indicator “E”, should be used with caution."
+5,"Beginning in December 2016, the census metropolitan area (CMA) of Guelph is included in the provincial aggregate for Ontario."
+
+
+
+"How to cite: Statistics Canada. Table 18-10-0205-01  New housing price index, monthly"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810020501
